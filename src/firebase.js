@@ -5,12 +5,12 @@ import "firebase/compat/firestore";
 import { useAuthContext } from "./providers/authcontext";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDW-x56B4NHrBqM8moBIej4krdotYJ8Q2A",
-  authDomain: "boginoo-74462.firebaseapp.com",
-  projectId: "boginoo-74462",
-  storageBucket: "boginoo-74462.appspot.com",
-  messagingSenderId: "423834686198",
-  appId: "1:423834686198:web:7e8bcf928a9f9848d7d2d7",
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
 };
 
 export const useFirebase = () => {
